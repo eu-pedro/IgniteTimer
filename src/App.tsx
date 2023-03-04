@@ -1,6 +1,6 @@
 import { Button } from "./components/Button"
 import { ThemeProvider } from "styled-components"
-import { defaultTheme } from "./components/styles/theme/default"
+import { defaultTheme } from "./styles/theme/default"
 
 export function App() {
   

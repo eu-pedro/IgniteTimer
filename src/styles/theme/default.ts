@@ -1,4 +1,5 @@
 export const defaultTheme = {
     primary: "blue",
-    secondary: "gray"
+    secondary: "gray",
+    danger: 'red'
 }
